@@ -1,0 +1,26 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(226, 197, 159);
+}
+
+.tittle {
+  color: brown;
+  text-align: center;
+
+}
+
+.imagen {
+  width: 1300px;
+  height: 500px;
+  background-image: url(https://www.purabrasa.com/wp-content/uploads/2022/09/Comerdor-Pura-Brasa-Platja-dAro.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.List {
+  color: brown;
+  width: 150px;
+  background-color: rgb(226, 197, 159);
+  height: auto;
+  }

@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(225, 220, 220);
+}
+
+.tittle {
+    text-align: center;
+}
+
+
+.container {
+    height: 400px;
+    position:relative;
+    }
+            
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}        
+
+.h2 {
+    color: brown;
+    text-align: center;
+}
+
+.description {
+    color: brown;
+    font-size: 13px;
+}
+
+.h3 {
+background-color: rgb(235, 219, 219);
+height: 175px;
+width: 425px;
+color: purple;
+font-size: 12px;
+}
+
+.container2 {
+  color: purple;
+  font-size: 12px;
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  transform: translate(-110%, 280%);
+}
+
+.pasos {
+    background-color: rgb(232, 230, 230);
+    color: rgb(227, 156, 24);
+    font-size: 14px;
+    width: 1200px;
+}
